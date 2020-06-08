@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main5{
+    position: relative;
+    height: 150vh;
+    width: 100%;
+    background-image: url(paper.gif) ;
+}
+
+.inside5{
+    position: relative;
+    height: 140vh;
+    width: 64%;
+    margin-left: 18%;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    background-color: white;
+    border-radius: 0px 0px 7px 7px ;
+}

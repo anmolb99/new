@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main4{
+    position: relative;
+    height: 135vh;
+    width: 100%;
+    background-image: url(paper.gif) ;
+}
+
+.inside4{
+    position: relative;
+    height: 125vh;
+    width: 64%;
+    margin-left: 18%;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    background-color: white;
+    border-radius: 0px 0px 7px 7px ;
+}
+.right3{
+    position: absolute;
+    height: 200px;
+    width:29%;
+    margin-left:66.5%;
+    margin-top: 40px;
+    border: 1px solid #dfdfdf; 
+    border-radius: 7px;
+}
+.right4{
+    position: absolute;
+    height: 400px;
+    width:98%;
+    background-image: url(women-gift.jpg);
+    background-size: 100% 100%;
+    border-radius: 3px;
+    margin-left: 1%;
+    margin-top: 3px;
+}
+.right5{
+    position: absolute;
+    height: 150px;
+    width:29%;
+    margin-left:66.5%;
+    margin-top: 27%;
+    border: 1px solid #dfdfdf; 
+    border-radius: 7px;
+}    
+.tp{
+    position: absolute;
+    height: 45px;
+    background-color: #48a9d0;
+    width: 100%;
+    border-radius: 7px 7px 0px 0px;
+}
+.tp h2{
+   
+    color: white;
+    margin-top: 14px;
+    font-size: 17px;
+}
+.border1{
+    position: absolute;
+    height: 408px;
+    width:29%;
+    margin-left:66.8%;
+    margin-top: 465px;
+    border-radius: 7px;
+    border: 1px solid #dfdfdf; 
+}
+.left3{
+    position: absolute;
+    width: 60%;
+    height: 100vh;
+    margin-left: 30px;
+    
+}
+
+.cimg{
+    height: 160px;
+    width: 230px;
+    margin-top: 60px;
+}
+.cbody{
+    margin-left: 37%;
+    margin-top: -170px;
+    width: 25rem;
+}
+
+.statue{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+}

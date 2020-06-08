@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.page{
+    height: 100vh;
+    width: 100%;
+    background-image: url(paper.gif);
+    position: relative;
+}
+
+
+.fullpage{
+    position: absolute;
+    height: 88vh;
+    width: 78%;
+    margin-left: 11%;
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+    border-radius: 15px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+
+}
+.top1{
+    position: absolute;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #dfdfdf;
+    border-radius: 15px 15px 0px 0px;
+}
+.leftside1{
+    position: relative;
+    height: 623px;
+    width: 30%;
+    margin-top: 70px;
+    border-radius: 0px 0px 0px 15px;
+    border-right: 1px solid #dfdfdf;
+}
+.bottom0{
+    position: absolute;
+    height: 65px;
+    width:869px;
+    border-top: 1px solid #dfdfdf;
+    margin-left: 30%;
+    bottom: 0;
+    border-radius: 0px 0px 15px 0px;
+    background-color:  rgb(241, 241, 241);
+}
+.realchat{
+    position: absolute;
+    height: 564px;
+    width: 869px;
+    /* background-color: rgb(229, 230, 227); */
+    top: 0;
+    margin-left: 30%;
+    margin-top: 70px;
+}
+.input{
+    height: 40px;
+    width: 85%;
+    border-radius: 30px;
+    margin-top: 11.5px;
+    border: none;
+    margin-left: 7%;
+    outline:none;
+    padding: 0px 20px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+.send{
+    position: absolute;
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    right: 0;
+    margin-top: -42px;
+    margin-right: 15px;
+    background-image: url(send.webp);
+    background-size: 100% 100%;
+}
+.emoji{
+    position: absolute;
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+    margin-top: 9px;
+    margin-left: 9px;
+    background-image: url(emoji.png);
+    background-size: 100% 100%;
+}
+.back{
+    position: absolute;
+    height: 55px;
+    width:100%;
+    border-bottom: 1px solid #d6d6d6;
+    background-color:  rgb(243, 243, 243);
+}
+.input0{
+    height: 35px;
+    width: 88%;
+    border-radius: 30px;
+    margin-top: 9px;
+    border: none;
+    margin-left: 6.2%;
+    outline:none;
+    padding: 0px 20px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}

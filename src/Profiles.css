@@ -1,0 +1,152 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.main3{
+    position: relative;
+    height: 150vh;
+    width: 100%;
+    background-image: url(paper.gif) ;
+}
+
+.inside3{
+    position: relative;
+    height: 140vh;
+    width: 64%;
+    margin-left: 18%;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    background-color: white;
+    border-radius: 0px 0px 7px 7px ;
+}
+.left0{
+    position: absolute;
+    width: 60%;
+    height: 100vh;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.rightone{
+    position: absolute;
+    height: 360px;
+    width:29%;
+    margin-left:66.5%;
+    margin-top: 40px;
+    border: 1px solid #dfdfdf; 
+    border-radius: 7px;
+}
+.righttwo{
+    position: absolute;
+    height: 400px;
+    width:98%;
+    background-image: url(women-gift.jpg);
+    background-size: 100% 100%;
+    border-radius: 3px;
+    margin-left: 1%;
+    margin-top: 3px;
+}
+.border0{
+    position: absolute;
+    height: 408px;
+    width:29%;
+    margin-left:67%;
+    margin-top: 480px;
+    border-radius: 7px;
+    border: 1px solid #dfdfdf; 
+}
+
+.top{
+    position: absolute;
+    height: 45px;
+    background-color: #48a9d0;
+    width: 100%;
+    border-radius: 7px 7px 0px 0px;
+}
+.top h2{
+    color: white;
+    margin-top: 14px;
+    margin-left: 20px;
+    font-size: 17px;
+}
+.find1{
+    position: absolute;
+    margin-top: 100%;
+    margin-left: 20%;
+}
+
+.a{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 77.5px;
+}
+
+.b{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 110px;
+    
+}
+.c{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 45%;
+}
+
+.d{
+    position: absolute;
+    margin-top: 43%;
+    margin-left: 110px;
+}
+.e{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 64.5%;
+}
+
+.f{
+    position: absolute;
+    margin-top: 62%;
+    margin-left: 110px;
+}
+.g{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 83%;
+}
+
+.h{
+    position: absolute;
+    margin-top: 80%;
+    margin-left: 110px;
+}
+.two2{
+    margin-left: 35%;
+    margin-top: -48%;
+}
+
+.three3{
+    margin-top: -48.5%;
+    margin-left: 70%;
+}
+.four4{
+    margin-top: 20px;
+}
+.five5{
+    margin-top: -48%;
+    margin-left: 35%;
+}
+.six6{
+    margin-top: -48%;
+    margin-left: 70%;
+}
+.seven7{
+    margin-top: 20px;
+}
+.eight8{
+    margin-left: 35%;
+    margin-top: -48%;
+}
+.nine9{
+    margin-top: -48%;
+    margin-left: 70%;
+}
